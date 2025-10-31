@@ -1,0 +1,14 @@
+{
+    "DISCORD_TOKEN": "MTM2NjQzNzU3NjEzODk0ODY4MQ.GB8aXl.XrKQaqtWpH-KET5bARwfEwBabaZwt40zlPjvxI_",
+    "MONEY_THRESHOLD_MIN": "1.0",
+    "MONEY_THRESHOLD_MAX": "1999.0",
+    "PLAYER_TRESHOLD": "8",
+    "IGNORE_UNKNOWN": false,
+    "IGNORE_LIST": "['La Cucaracha']",
+    "FILTER_BY_NAME": false,
+    "FILTER_LIST": "['Graipuss Medussi', 'La Grande Combinasion']",
+    "BYPASS_10M": true,
+    "READ_CHANNELS": "['10m_plus']",
+    "WEBSOCKET_PORT": "51948",
+    "DISCORD_WS_URL": "wss://gateway.discord.gg/?encoding=json&v=9"
+}

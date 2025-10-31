@@ -1,0 +1,8 @@
+keyboard
+websockets
+colorama
+Pillow
+discord.py
+pynput
+pyinstaller
+requests
